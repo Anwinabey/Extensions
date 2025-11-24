@@ -1,0 +1,29 @@
+Steps Performed
+
+Opened Chrome → Extensions → Manage Extensions
+Reviewed all installed extensions
+Checked permissions and reviews for uBlock Origin
+Verified it is a trusted and widely used ad-blocker
+Confirmed no suspicious behavior
+Kept the extension as it improves security and removes ads
+Documented findings
+
+Extension Reviewed: uBlock Origin
+
+Extension Name: uBlock Origin
+Developer: Raymond Hill (Gorhill)
+Status: Safe and trusted
+Reviews: Very positive, millions of users
+
+Permissions:
+
+Block ads
+Prevent trackers
+Improve page loading speed
+Optional advanced features like dynamic filtering
+
+Reason for Keeping It:
+
+Helps block malicious ads 
+Reduces tracking by third-party scripts
+Improves browsing speed
